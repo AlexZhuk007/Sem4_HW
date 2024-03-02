@@ -1,0 +1,15 @@
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\bin\Debug\net8.0\task3.exe
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\bin\Debug\net8.0\task3.deps.json
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\bin\Debug\net8.0\task3.dll
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\bin\Debug\net8.0\task3.pdb
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.dll
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\refint\task3.dll
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.pdb
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\zhuko\Downloads\обучение\programming\seminar4\HW\task3\obj\Debug\net8.0\ref\task3.dll
